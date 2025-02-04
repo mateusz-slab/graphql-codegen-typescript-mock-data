@@ -1,5 +1,5 @@
 {
-    "name": "graphql-codegen-typescript-mock-data",
+    "name": "slab-graphql-codegen-typescript-mock-data",
     "version": "4.1.0",
     "description": "GraphQL Codegen plugin for building mock data",
     "main": "dist/commonjs/index.js",
